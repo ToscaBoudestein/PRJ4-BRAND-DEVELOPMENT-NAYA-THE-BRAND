@@ -10,12 +10,28 @@
 	padding: 10px 30px 10px 30px;
 	margin-top: 10px;
 	margin-bottom: 50px;
+	margin-bottom: 50px;
 	background-color: #F8BFD8 !important;
 	box-shadow: 4px 4px 8px gray;
 	border: none;
 	border-radius: 10px;
+	
 }
 
-a.btn{
-	color: black;
+.text-collection-button{
+	text-decoration: none !important;
+	color: #D41E44 !important;
+}
+
+.sweater-picture{
+	margin: auto;
+}
+
+.col-sm-8{
+	display: flex;
+	justify-content: center;
+}
+
+.opening-section{
+	padding-left: 50px !important;
 }
