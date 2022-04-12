@@ -1,6 +1,20 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.cover-container{
+	background-color: #F7F6F4;
+}
+
+/*Navigation Section */
+.nav{
+	padding-top: 20px;
+	float: right;
+}
+
+.nav-link{
+	color: black !important;
+}
+
 /* Introduction page */
 .introduction-page{
 	background-color: #FFF2AB;
@@ -9,7 +23,6 @@
 .btn{
 	padding: 10px 30px 10px 30px;
 	margin-top: 10px;
-	margin-bottom: 50px;
 	margin-bottom: 50px;
 	background-color: #F8BFD8 !important;
 	box-shadow: 4px 4px 8px gray;
@@ -35,3 +48,21 @@
 .opening-section{
 	padding-left: 50px !important;
 }
+
+/* Our Story Section */
+
+.our-vision{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 50px;
+}
+
+
+.our-mission{
+	padding-top: 250px;
+	padding-bottom: 50px;
+	text-align: end;
+}
+
+/*Our Collection Section */
+
