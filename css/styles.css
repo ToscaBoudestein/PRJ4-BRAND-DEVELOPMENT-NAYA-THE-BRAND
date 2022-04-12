@@ -50,8 +50,7 @@
 }
 
 /* Our Story Section */
-
-.our-vision{
+.our-stroy-section{
 	margin-top: 50px;
 	margin-bottom: 50px;
 	padding: 50px;
@@ -59,7 +58,7 @@
 
 
 .our-mission{
-	padding-top: 250px;
+	padding-top: 160px;
 	padding-bottom: 50px;
 	text-align: end;
 }
