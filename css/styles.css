@@ -6,17 +6,16 @@
 	background-color: #FFF2AB;
 }
 
-.opening-section{
-	display: flex;
-	justify-content: center;
-}
-
 .btn{
 	padding: 10px 30px 10px 30px;
 	margin-top: 10px;
 	margin-bottom: 50px;
-	background-color: #F8BFD8;
+	background-color: #F8BFD8 !important;
 	box-shadow: 4px 4px 8px gray;
 	border: none;
 	border-radius: 10px;
+}
+
+a.btn{
+	color: black;
 }
