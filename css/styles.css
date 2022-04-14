@@ -82,7 +82,7 @@ a.nav-link:hover{
 
 .our-mission{
 	padding-right: 50px !important;
-	padding-top: 160px;
+	padding-top: 300px;
 	padding-bottom: 50px;
 	text-align: end;
 }
@@ -168,7 +168,7 @@ a.naya-the-brand-insta{
 }
 
 .our-team{
-	padding: 50px;
+	padding: 50px !important;
 	background-color: rgba(255,242,168,1.0);
 }
 
