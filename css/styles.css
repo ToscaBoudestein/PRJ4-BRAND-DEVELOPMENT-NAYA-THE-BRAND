@@ -1,6 +1,23 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/* Typography */
+h1{
+	
+	font-family: beloved-sans, sans-serif;
+	font-weight: 700;
+}
+
+h2{
+	font-family: beloved-sans, sans-serif;
+	font-size: 20px;
+}
+
+a, p{
+	font-family: stolzl, sans-serif;
+	font-size: 15px;
+}
+
 .cover-container{
 	background-color: #F7F6F4;
 }
@@ -13,6 +30,10 @@
 
 .nav-link{
 	color: black !important;
+}
+
+a.nav-link:hover{
+	color: #D41E44 !important;
 }
 
 /* Introduction page */
@@ -58,10 +79,47 @@
 
 
 .our-mission{
+	padding-right: 50px !important;
 	padding-top: 160px;
 	padding-bottom: 50px;
 	text-align: end;
 }
 
 /*Our Collection Section */
+.col-md-7, .col-md-5{
+	background-color: rgba(255,242,168,1.0);
+}
+.product-image{
+	padding: 40px;
+}
 
+.text-products {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.text-products {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	
+}
+
+.gallary-button{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 10px 50px;
+	color: #D41E44;
+	background-color: #F8BFD8;
+	box-shadow: 4px 4px 8px gray;
+	border: none;
+	border-radius: 10px;	
+}
+
+.product-gallary {
+	padding-top: 50px;
+	margin-bottom: 40px;
+}
+.card-body{
+	background-color: transparent !important;
+	border: none !important;
+}
