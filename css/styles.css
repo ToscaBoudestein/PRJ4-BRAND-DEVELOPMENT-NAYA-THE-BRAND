@@ -2,6 +2,8 @@
 /* CSS Document */
 
 /* Typography */
+@import url("https://use.typekit.net/cfp7bsk.css");
+
 h1{
 	
 	font-family: beloved-sans, sans-serif;
@@ -122,4 +124,72 @@ a.nav-link:hover{
 .card-body{
 	background-color: transparent !important;
 	border: none !important;
+}
+
+/*Social Media section */
+
+.social-media-page{
+	background-color: transparent;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.introduction-social{
+	padding: 40px;
+	margin: 20px;
+	
+}
+
+.go-to-instagram{
+	padding: 10px 30px 10px 30px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	background-color: #F8BFD8;
+	box-shadow: 4px 4px 8px gray;
+	border: none;
+	border-radius: 10px;
+}
+
+a.naya-the-brand-insta{
+	color: #D41E44;
+	text-decoration: none;
+}
+
+.instagram-add{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/* Naya's Ambassadors */
+.name{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+.our-team{
+	padding: 50px;
+	background-color: rgba(255,242,168,1.0);
+}
+
+.btn{
+	padding: 10px 30px 10px 30px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	background-color: #F8BFD8;
+	box-shadow: 4px 4px 8px gray;
+	border: none;
+	border-radius: 10px;
+}
+
+a.btn{
+	color: #D41E44;
+	text-decoration: none;
+}
+
+.jesper-picture{
+	object-fit: cover;
+}
+.annelijn-picture {
+	object-fit: cover;
 }
