@@ -4,15 +4,10 @@
 /* Typography */
 @import url("https://use.typekit.net/cfp7bsk.css");
 
-h1{
+h1, h2{
 	
 	font-family: beloved-sans, sans-serif;
 	font-weight: 700;
-}
-
-h2{
-	font-family: beloved-sans, sans-serif;
-	font-size: 20px;
 }
 
 a, p{
