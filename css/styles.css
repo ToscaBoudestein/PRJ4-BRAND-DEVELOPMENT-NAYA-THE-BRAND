@@ -47,6 +47,10 @@ img.rounded-circle-logo{
 	background-color: #FFF2AB;
 }
 
+.brand-logo{
+	width: 90% !important;
+}
+
 .btn{
 	padding: 10px 30px 10px 30px;
 	margin-top: 10px;
