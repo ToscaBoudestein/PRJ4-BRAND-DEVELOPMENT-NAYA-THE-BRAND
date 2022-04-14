@@ -196,3 +196,18 @@ a.btn{
 .annelijn-picture {
 	object-fit: cover;
 }
+
+/*Marketing and communication*/
+.context-of-the-campaign{
+	padding: 50px !important;
+	background-color: rgba(255,242,168,1.0) !important;
+}
+
+.learning-points{
+	padding: 50px !important;
+}
+
+.future-planning{
+	padding: 50px !important;
+	background-color: rgba(255,242,168,1.0) !important;
+}
