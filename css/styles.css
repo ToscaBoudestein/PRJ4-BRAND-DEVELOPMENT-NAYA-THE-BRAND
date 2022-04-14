@@ -38,6 +38,10 @@ a.nav-link:hover{
 	color: #D41E44 !important;
 }
 
+img.rounded-circle-logo{
+	width: 5%;
+}
+
 /* Introduction page */
 .introduction-page{
 	background-color: #FFF2AB;
